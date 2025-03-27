@@ -45,3 +45,6 @@ Checking service 'ingress-nginx-controller-admission' in namespace 'ingress-ngin
 🔢 Detected ingress-nginx controller versions:
   → 1.12.1   ✅ Likely safe
 ```
+
+## Credit
+- https://github.com/DataDog/security-labs-pocs/tree/main/validation-scripts/cve-2025-1974-ingress-nightmare
